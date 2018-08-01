@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{3C958096-CDDD-4A48-B434-4BCB54FC624A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SokobanExampleSolution/WindowsFormView.cs">
+    <Files>
+      <File FileName="SokobanExampleSolution/Game.cs" Line="1" Column="1" />
+      <File FileName="SokobanExampleSolution/GameBoardForm.cs" Line="1" Column="1" />
+      <File FileName="SokobanExampleSolution/GameController.cs" Line="1" Column="1" />
+      <File FileName="SokobanExampleSolution/IView.cs" Line="1" Column="1" />
+      <File FileName="SokobanExampleSolution/Program.cs" Line="1" Column="1" />
+      <File FileName="SokobanExampleSolution/WindowsFormView.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SokobanExampleSolution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,117 @@
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\bin\Debug\Test.exe.config
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\bin\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\bin\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.LevelDesignForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.MainForm.resources
+D:\Onedrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\bin\Debug\Test.exe.config
+D:\Onedrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\bin\Debug\Test.exe
+D:\Onedrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\bin\Debug\Test.pdb
+D:\Onedrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Onedrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.LevelDesignForm.resources
+D:\Onedrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.MainForm.resources
+D:\Onedrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Onedrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Onedrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Onedrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.exe
+D:\Onedrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\FinalTest\Test\Test\obj\Debug\Test.pdb
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest\Test\Test\obj\Debug\Test.exe
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest\Test\Test\obj\Debug\Test.pdb
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest\Test\Test\bin\Debug\Test.exe
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest\Test\Test\bin\Debug\Test.pdb
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest\Test\Test\obj\Debug\Test.LevelDesignForm.resources
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\obj\Debug\Test.exe
+C:\Users\Wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\obj\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\bin\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\bin\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\obj\Debug\Test.LevelDesignForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\bin\Debug\Sokoban_FileHandler.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Static\Test\Test\bin\Debug\Sokoban_FileHandler.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\bin\Debug\Test.exe.config
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\obj\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\obj\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\bin\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\bin\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\bin\Debug\Sokoban_FileHandler.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\bin\Debug\Sokoban_FileHandler.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\obj\Debug\Test.LevelDesignForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Dynamic\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\bin\Debug\Test.exe.config
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\obj\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\obj\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\bin\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\bin\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\bin\Debug\Sokoban_FileHandler.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\bin\Debug\Sokoban_FileHandler.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\obj\Debug\Test.LevelDesignForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - new Static\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\bin\Debug\Test.exe.config
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\obj\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\obj\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\obj\Debug\Test.LevelDesignForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\bin\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\bin\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\bin\Debug\FileHandler.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\bin\Debug\FileHandler.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\bin\Debug\SokobanExampleSolution.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler\Test\Test\bin\Debug\SokobanExampleSolution.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\bin\Debug\Test.exe.config
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\obj\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\obj\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\bin\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\bin\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\bin\Debug\FileHandler.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\bin\Debug\SokobanExampleSolution.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\bin\Debug\FileHandler.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\bin\Debug\SokobanExampleSolution.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\obj\Debug\Test.LevelDesignForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\FinalTest - Dynamic - My Handler - Jonathan Bray\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\bin\Debug\Test.exe.config
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\obj\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\obj\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\bin\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\bin\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\bin\Debug\FileHandler.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\bin\Debug\SokobanExampleSolution.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\bin\Debug\FileHandler.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\bin\Debug\SokobanExampleSolution.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\obj\Debug\Test.LevelDesignForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Version 2\Final - Testing\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Project\GameDesignerFiler - Dynamic Level Designer\Main - Level Designer - Mine\Test\Test\bin\Debug\Test.exe.config
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Project\GameDesignerFiler - Dynamic Level Designer\Main - Level Designer - Mine\Test\Test\obj\Debug\Test.exe
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Project\GameDesignerFiler - Dynamic Level Designer\Main - Level Designer - Mine\Test\Test\obj\Debug\Test.pdb
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Project\GameDesignerFiler - Dynamic Level Designer\Main - Level Designer - Mine\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Project\GameDesignerFiler - Dynamic Level Designer\Main - Level Designer - Mine\Test\Test\obj\Debug\Test.LevelDesignForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Project\GameDesignerFiler - Dynamic Level Designer\Main - Level Designer - Mine\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Project\GameDesignerFiler - Dynamic Level Designer\Main - Level Designer - Mine\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\wew248\OneDrive\Course\2017\Semester 2\BCPR283  - Best Programming Practices C#\Assignment\Final\Project\GameDesignerFiler - Dynamic Level Designer\Main - Level Designer - Mine\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
